@@ -1,0 +1,112 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+.container{
+  display: flex;
+}
+.hrlinha{
+  display:flex;
+}
+.hrum{
+  width:350px;
+  border: 2px solid #4d4d4d;
+  margin:0px;
+}
+.hrdois{
+  width:1000px;
+  border: 2px solid #c4c0c0;
+  margin:0px;
+}
+
+.conteudo{
+  flex-flow: row wrap;
+  width:300px;
+  margin:20px;
+}
+.tecnologia{
+  width:300px;
+  height:200px;
+  border-radius: 20px;
+}
+.ptecnologia{
+  font-family: 'Roboto';
+  color:Gray;
+}
+
+
+.container2{
+  display: flex;
+  background-color:#e6eae7;
+  width:1350px;
+  height:600px;
+
+}
+.conteudo2{
+
+  flex-flow: row wrap;
+  width:300px;
+  margin:60px;
+   
+}
+.data{
+  display:flex;
+   margin:0px;
+  font-family: 'Roboto';
+}
+.data_1{
+  color:green;
+   margin:0px;
+  font-family: 'Roboto';
+}
+.data_2{
+  color:#696d69;
+  margin:0px;
+  font-family: 'Roboto';
+}
+h3{
+  color: green;
+  font-family: 'Roboto';
+}
+.pnot{
+  color:#696d69;
+  font-family: 'Roboto';
+}
+.imgifsc{
+  width:300px;
+  height:200px;
+}
+.tituifsc{
+  color:#3b593cff;
+  font-family: 'Roboto';
+}
+.tituifsc-no{
+  color:#737373ff;
+  font-family: 'Roboto';
+}
+
+.subtituifsc{
+  color:#464e48;
+  font-family: 'Roboto';
+}
+
+
+.container3{
+  display: flex;
+  background-color:#dddde4;
+  width:1350px;
+  height:900px;
+
+}
+.museu{
+display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.museu1{
+  width:350px;
+}
+.museu11{
+  width:900px;
+  
+}
